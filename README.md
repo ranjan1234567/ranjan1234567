@@ -1,16 +1,6 @@
-## Hi there 👋
-
-<!--
-**ranjan1234567/ranjan1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML projects
 - 🌱 I’m currently learning AI and ML
-- 👯 I’m looking to collaborate on ML
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on learning java
+- 📫 How to reach me: ranjangowda0208@gmail.com
+- 😄 Pronouns: he/him
